@@ -1,0 +1,10 @@
+require File.join(File.dirname(__FILE__), 'lib', 'hotbits.rb')
+
+puts %{ _                ___ }
+puts %{( )___ _   _ _ __|__ \\}
+puts %{|// __| | | | '_ \\ / /}
+puts %{  \\__ \\ |_| | |_) |_| }
+puts %{  |___/\\__,_| .__/(_) }
+puts %{            |_|       }
+
+puts "Welcome to Hotbits Development, Y'all"
