@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Hotbits::VERSION
   spec.authors       = ["max thom stahl"]
   spec.email         = ["max@villainousindustries.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Ruby interface to the Hotbits random number generation service.}
+  spec.summary       = %q{Ruby interface to the Hotbits random number generation service.}
+  spec.homepage      = "https://github.com/mstahl/hotbits"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
