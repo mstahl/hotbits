@@ -1,10 +1,7 @@
 # Hotbits
 
-Use this gem to connect to the Hotbits web service
-(http://www.fourmilab.ch/hotbits/).  Though I'm a fan and a user of Hotbits,
-this gem isn't "official" in any sense of the word.  If Hotbits changes their
-API in the future, this gem will break. If you're a user of this gem and that
-happens to you, please either fork this and fix it yourself or submit an issue.
+Use this gem to connect to John Walker's excellent Hotbits random number
+generating web service (http://www.fourmilab.ch/hotbits/).
 
 ## Installation
 
